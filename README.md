@@ -1,14 +1,28 @@
+<div align="center">  
+        <b>Página em construção</b>
+        
+</div>
+<br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Ismael+Guedes&color=0:001bff,100:b100ff&height=230&section=header&fontColor=ffffff;"/>
 
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b100ff&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo,+sou+Ismael+Guedes!!;Eu+sou+Análista+e+Desenvolvedor+de+Sistemas)](https://git.io/typing-svg)
-<br/><br/><br/>
+<br/>
+
+## Sobre mim
 <div align="center">  
-<a href="https://www.instagram.com/ismael_vguedes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+        Olá, meu nome é Ismael Guedes
 </div>
-<img width="100%"
-        src="https://github.com/alquemistdev/alquemistdev/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">  
+        <a href="https://www.instagram.com/ismael_vguedes" target="_blank">
+</div>
+
+## Contato
+<div align="center">  
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
+
+## Atividade
+<img width="100%" src="https://github.com/alquemistdev/alquemistdev/blob/output/github-contribution-grid-snake.svg" />
         
 <br/><br/><br/>
 <p align="center">
@@ -16,8 +30,8 @@
 </p>
 <br/><br/><br/>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alquemistdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ismael Guedes stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquemistdev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alquemistdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" /> 
+  <img width="45%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquemistdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"" />
 </div>
 
 <br/><br/><br/>
