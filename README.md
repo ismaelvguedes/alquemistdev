@@ -1,7 +1,6 @@
 <div align="center">  
         <b>Página em construção</b>
- [link](https://colab.research.google.com/drive/12dDSoyi4sVoF8JKUZXJvJ918a_0T5PuI?usp=sharing)
-       
+ 
 </div>
 <br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Ismael+Guedes&color=0:001bff,100:b100ff&height=230&section=header&fontColor=ffffff;"/>
